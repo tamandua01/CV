@@ -1,0 +1,14 @@
+I have over 10 years of experience working for my current company, with more than 2 years dedicated to roles as a Data Engineer, Data Analyst, and Data Scientist. As the sole professional in the organization with expertise in these areas, I independently manage all data-related projects, collaborating closely with various departments to ensure alignment with their needs and goals.
+
+I am proficient in Python programming and specialize in delivering data-driven insights through Excel and Power BI. Additionally, I have completed SAS training, although I have yet to apply it in a professional setting.
+
+My experience with statistics includes practical applications for establishing stock parameters. However, my primary interest lies in applying data science to clinical fields. For instance, in my Data Science course, my first project involved developing a cancer prediction model based on survey data.
+
+I also have foundational knowledge of Clinical Trials, gained through the CRA course at Phase SMO.
+
+Given the job description, I am confident in my ability to meet your needs. If there are any doubts or areas you’d like to explore further, I would be delighted to discuss them in an interview.
+
+Looking forward to the opportunity to contribute to your team.
+
+Best regards,
+Matias Bellesi
